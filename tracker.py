@@ -1,6 +1,6 @@
 
 # Author: Prachi
-# Date: 10-Nov-2025
+# Date: 11-Nov-2025
 # Project Title: Daily Calorie Tracker CLI
 
 import datetime
